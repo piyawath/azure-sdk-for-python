@@ -1,0 +1,23 @@
+
+========
+Web Apps
+========
+
+
+--------------
+azure-mgmt-web
+--------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-web"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-web', 'azure-mgmt-web')
+        </script>
+    </embed>
+
+------------
+

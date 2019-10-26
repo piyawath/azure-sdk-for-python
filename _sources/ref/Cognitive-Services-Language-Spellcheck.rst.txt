@@ -1,0 +1,23 @@
+
+======================================
+Cognitive Services Language Spellcheck
+======================================
+
+
+-------------------------------------------
+azure-cognitiveservices-language-spellcheck
+-------------------------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-cognitiveservices-language-spellcheck"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-cognitiveservices-language-spellcheck', 'azure-cognitiveservices-language-spellcheck')
+        </script>
+    </embed>
+
+------------
+

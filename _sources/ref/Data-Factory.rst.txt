@@ -1,0 +1,23 @@
+
+============
+Data Factory
+============
+
+
+----------------------
+azure-mgmt-datafactory
+----------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-datafactory"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-datafactory', 'azure-mgmt-datafactory')
+        </script>
+    </embed>
+
+------------
+

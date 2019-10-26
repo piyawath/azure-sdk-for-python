@@ -1,0 +1,23 @@
+
+=====================================
+Cognitive Services Search Autosuggest
+=====================================
+
+
+------------------------------------------
+azure-cognitiveservices-search-autosuggest
+------------------------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-cognitiveservices-search-autosuggest"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-cognitiveservices-search-autosuggest', 'azure-cognitiveservices-search-autosuggest')
+        </script>
+    </embed>
+
+------------
+

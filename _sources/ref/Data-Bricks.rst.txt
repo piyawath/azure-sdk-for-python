@@ -1,0 +1,23 @@
+
+===========
+Data Bricks
+===========
+
+
+---------------------
+azure-mgmt-databricks
+---------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-databricks"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-databricks', 'azure-mgmt-databricks')
+        </script>
+    </embed>
+
+------------
+

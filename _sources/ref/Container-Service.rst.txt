@@ -1,0 +1,23 @@
+
+=================
+Container Service
+=================
+
+
+---------------------------
+azure-mgmt-containerservice
+---------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-containerservice"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-containerservice', 'azure-mgmt-containerservice')
+        </script>
+    </embed>
+
+------------
+

@@ -1,0 +1,23 @@
+
+=================
+Power BI Embedded
+=================
+
+
+--------------------------
+azure-mgmt-powerbiembedded
+--------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-powerbiembedded"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-powerbiembedded', 'azure-mgmt-powerbiembedded')
+        </script>
+    </embed>
+
+------------
+

@@ -1,0 +1,23 @@
+
+=========
+Scheduler
+=========
+
+
+--------------------
+azure-mgmt-scheduler
+--------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-scheduler"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-scheduler', 'azure-mgmt-scheduler')
+        </script>
+    </embed>
+
+------------
+

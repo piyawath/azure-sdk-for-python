@@ -1,0 +1,23 @@
+
+=========================================
+Cognitive Services Language TextAnalytics
+=========================================
+
+
+----------------------------------------------
+azure-cognitiveservices-language-textanalytics
+----------------------------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-cognitiveservices-language-textanalytics"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-cognitiveservices-language-textanalytics', 'azure-cognitiveservices-language-textanalytics')
+        </script>
+    </embed>
+
+------------
+

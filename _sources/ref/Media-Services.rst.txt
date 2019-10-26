@@ -1,0 +1,23 @@
+
+==============
+Media Services
+==============
+
+
+----------------
+azure-mgmt-media
+----------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-media"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-media', 'azure-mgmt-media')
+        </script>
+    </embed>
+
+------------
+

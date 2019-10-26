@@ -1,0 +1,23 @@
+
+=============
+Dev Test Labs
+=============
+
+
+----------------------
+azure-mgmt-devtestlabs
+----------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-devtestlabs"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-devtestlabs', 'azure-mgmt-devtestlabs')
+        </script>
+    </embed>
+
+------------
+

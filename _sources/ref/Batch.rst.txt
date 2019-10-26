@@ -1,0 +1,41 @@
+
+=====
+Batch
+=====
+
+
+-----------
+azure-batch
+-----------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-batch"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-batch', 'azure-batch')
+        </script>
+    </embed>
+
+------------
+
+
+----------------
+azure-mgmt-batch
+----------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-batch"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-batch', 'azure-mgmt-batch')
+        </script>
+    </embed>
+
+------------
+

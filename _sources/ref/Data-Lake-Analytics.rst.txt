@@ -1,0 +1,23 @@
+
+===================
+Data Lake Analytics
+===================
+
+
+-----------------------------
+azure-mgmt-datalake-analytics
+-----------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-datalake-analytics"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-datalake-analytics', 'azure-mgmt-datalake-analytics')
+        </script>
+    </embed>
+
+------------
+

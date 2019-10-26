@@ -1,0 +1,23 @@
+
+===============
+Data Lake Store
+===============
+
+
+-------------------------
+azure-mgmt-datalake-store
+-------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-datalake-store"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-datalake-store', 'azure-mgmt-datalake-store')
+        </script>
+    </embed>
+
+------------
+

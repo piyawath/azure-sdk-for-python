@@ -1,0 +1,23 @@
+
+========================
+Machine Learning Compute
+========================
+
+
+---------------------------------
+azure-mgmt-machinelearningcompute
+---------------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-machinelearningcompute"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-machinelearningcompute', 'azure-mgmt-machinelearningcompute')
+        </script>
+    </embed>
+
+------------
+

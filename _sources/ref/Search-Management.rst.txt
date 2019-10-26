@@ -1,0 +1,23 @@
+
+=================
+Search Management
+=================
+
+
+-----------------
+azure-mgmt-search
+-----------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-search"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-search', 'azure-mgmt-search')
+        </script>
+    </embed>
+
+------------
+
