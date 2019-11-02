@@ -4,6 +4,11 @@ Cognitive Services Search Autosuggest
 =====================================
 
 
+***************
+Client Packages
+***************
+
+
 ------------------------------------------
 azure-cognitiveservices-search-autosuggest
 ------------------------------------------

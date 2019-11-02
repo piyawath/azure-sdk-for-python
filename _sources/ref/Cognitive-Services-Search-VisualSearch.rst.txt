@@ -4,6 +4,11 @@ Cognitive Services Search VisualSearch
 ======================================
 
 
+***************
+Client Packages
+***************
+
+
 -------------------------------------------
 azure-cognitiveservices-search-visualsearch
 -------------------------------------------

@@ -4,6 +4,11 @@ Event Hub
 =========
 
 
+***************
+Client Packages
+***************
+
+
 --------------
 azure-eventhub
 --------------
@@ -38,6 +43,11 @@ azure-eventhub-checkpointstoreblob-aio
     </embed>
 
 ------------
+
+
+*******************
+Management Packages
+*******************
 
 
 -------------------

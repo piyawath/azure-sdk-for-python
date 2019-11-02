@@ -4,6 +4,11 @@ Application Insights
 ====================
 
 
+***************
+Client Packages
+***************
+
+
 -------------------------
 azure-applicationinsights
 -------------------------
@@ -20,6 +25,11 @@ azure-applicationinsights
     </embed>
 
 ------------
+
+
+*******************
+Management Packages
+*******************
 
 
 ------------------------------

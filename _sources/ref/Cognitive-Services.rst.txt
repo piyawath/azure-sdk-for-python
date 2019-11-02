@@ -4,6 +4,11 @@ Cognitive Services
 ==================
 
 
+*******************
+Management Packages
+*******************
+
+
 ----------------------------
 azure-mgmt-cognitiveservices
 ----------------------------

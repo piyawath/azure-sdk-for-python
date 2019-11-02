@@ -9,11 +9,14 @@
   ref/Advisor.rst
   ref/Alerts-Management.rst
   ref/App-Configuration.rst
+  ref/App-Service.rst
   ref/Application-Insights.rst
+  ref/Attestation.rst
   ref/Authorization.rst
   ref/Automation.rst
   ref/Batch.rst
   ref/Billing.rst
+  ref/Bot-Service.rst
   ref/CDN.rst
   ref/Cognitive-Services.rst
   ref/Cognitive-Services-Anomaly-Detector.rst
@@ -44,17 +47,24 @@
   ref/Core.rst
   ref/Cosmos.rst
   ref/Cosmos-DB.rst
+  ref/Cost-Management.rst
   ref/DNS.rst
   ref/Data-Bricks.rst
   ref/Data-Factory.rst
   ref/Data-Lake-Analytics.rst
   ref/Data-Lake-Store.rst
+  ref/Data-Share.rst
   ref/Data-migration.rst
+  ref/Deployment-Manager.rst
   ref/Dev-Test-Labs.rst
   ref/DevSpaces.rst
+  ref/Edge-Gateway.rst
   ref/Event-Grid.rst
   ref/Event-Hub.rst
+  ref/Front-Door.rst
   ref/HDInsight.rst
+  ref/Healthcare-APIs.rst
+  ref/Hybrid-Cloud.rst
   ref/Identity.rst
   ref/ImageBuilder.rst
   ref/IoT.rst
@@ -66,6 +76,7 @@
   ref/Logic-Apps.rst
   ref/MSI.rst
   ref/Machine-Learning-Compute.rst
+  ref/Managed-Services.rst
   ref/Management-Groups.rst
   ref/Management-Partner.rst
   ref/Maps.rst
@@ -76,13 +87,17 @@
   ref/NetApp.rst
   ref/Network.rst
   ref/Notification-Hubs.rst
+  ref/OSS-RDBMS.rst
   ref/Other.rst
+  ref/Peering.rst
   ref/Policy-Insights.rst
   ref/Power-BI-Embedded.rst
+  ref/Private-DNS.rst
   ref/Recovery-Services.rst
   ref/Recovery-Services-Backup.rst
   ref/Redis-Cache.rst
   ref/Relay.rst
+  ref/Reservations.rst
   ref/Resource-Graph.rst
   ref/Resource-Management.rst
   ref/SAP-Hana-on-Azure.rst
@@ -91,6 +106,7 @@
   ref/Scheduler.rst
   ref/Search-Management.rst
   ref/Security-Management.rst
+  ref/Serial-Console.rst
   ref/Server-Management.rst
   ref/Service-Bus.rst
   ref/Service-Fabric.rst
@@ -98,6 +114,7 @@
   ref/Storage.rst
   ref/Subscription.rst
   ref/Traffic-Manager.rst
+  ref/VMWare-by-CloudSimple.rst
   ref/Virtual-Machines.rst
   ref/Web-Apps.rst
 

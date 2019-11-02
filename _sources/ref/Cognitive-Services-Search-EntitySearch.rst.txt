@@ -4,6 +4,11 @@ Cognitive Services Search EntitySearch
 ======================================
 
 
+***************
+Client Packages
+***************
+
+
 -------------------------------------------
 azure-cognitiveservices-search-entitysearch
 -------------------------------------------

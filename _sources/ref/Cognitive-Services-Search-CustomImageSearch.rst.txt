@@ -4,6 +4,11 @@ Cognitive Services Search CustomImageSearch
 ===========================================
 
 
+***************
+Client Packages
+***************
+
+
 ------------------------------------------------
 azure-cognitiveservices-search-customimagesearch
 ------------------------------------------------

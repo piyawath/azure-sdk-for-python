@@ -4,22 +4,9 @@ Service Fabric
 ==============
 
 
-------------------------
-azure-mgmt-servicefabric
-------------------------
-
-**Published Versions**
-
-.. raw:: html
-
-    <embed>
-        <ul id="vazure-mgmt-servicefabric"></ul>
-        <script type="text/javascript">
-            populateIndexList('#vazure-mgmt-servicefabric', 'azure-mgmt-servicefabric')
-        </script>
-    </embed>
-
-------------
+***************
+Client Packages
+***************
 
 
 -------------------
@@ -34,6 +21,29 @@ azure-servicefabric
         <ul id="vazure-servicefabric"></ul>
         <script type="text/javascript">
             populateIndexList('#vazure-servicefabric', 'azure-servicefabric')
+        </script>
+    </embed>
+
+------------
+
+
+*******************
+Management Packages
+*******************
+
+
+------------------------
+azure-mgmt-servicefabric
+------------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-servicefabric"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-servicefabric', 'azure-mgmt-servicefabric')
         </script>
     </embed>
 

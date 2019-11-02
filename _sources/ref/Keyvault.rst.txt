@@ -4,6 +4,11 @@ Keyvault
 ========
 
 
+***************
+Client Packages
+***************
+
+
 ---------------------------
 azure-keyvault-certificates
 ---------------------------
@@ -56,6 +61,11 @@ azure-keyvault-secrets
     </embed>
 
 ------------
+
+
+*******************
+Management Packages
+*******************
 
 
 -------------------

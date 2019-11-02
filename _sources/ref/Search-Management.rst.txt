@@ -4,6 +4,11 @@ Search Management
 =================
 
 
+*******************
+Management Packages
+*******************
+
+
 -----------------
 azure-mgmt-search
 -----------------

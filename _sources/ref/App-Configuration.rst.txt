@@ -4,6 +4,11 @@ App Configuration
 =================
 
 
+***************
+Client Packages
+***************
+
+
 ----------------------
 azure-appconfiguration
 ----------------------
@@ -20,6 +25,11 @@ azure-appconfiguration
     </embed>
 
 ------------
+
+
+*******************
+Management Packages
+*******************
 
 
 ---------------------------

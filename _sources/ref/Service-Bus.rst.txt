@@ -4,22 +4,9 @@ Service Bus
 ===========
 
 
----------------------
-azure-mgmt-servicebus
----------------------
-
-**Published Versions**
-
-.. raw:: html
-
-    <embed>
-        <ul id="vazure-mgmt-servicebus"></ul>
-        <script type="text/javascript">
-            populateIndexList('#vazure-mgmt-servicebus', 'azure-mgmt-servicebus')
-        </script>
-    </embed>
-
-------------
+***************
+Client Packages
+***************
 
 
 ----------------
@@ -34,6 +21,29 @@ azure-servicebus
         <ul id="vazure-servicebus"></ul>
         <script type="text/javascript">
             populateIndexList('#vazure-servicebus', 'azure-servicebus')
+        </script>
+    </embed>
+
+------------
+
+
+*******************
+Management Packages
+*******************
+
+
+---------------------
+azure-mgmt-servicebus
+---------------------
+
+**Published Versions**
+
+.. raw:: html
+
+    <embed>
+        <ul id="vazure-mgmt-servicebus"></ul>
+        <script type="text/javascript">
+            populateIndexList('#vazure-mgmt-servicebus', 'azure-mgmt-servicebus')
         </script>
     </embed>
 

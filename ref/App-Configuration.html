@@ -37,7 +37,7 @@
   <link rel="stylesheet" href="../_static/css/default_overrides.css" type="text/css" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Application Insights" href="Application-Insights.html" />
+    <link rel="next" title="App Service" href="App-Service.html" />
     <link rel="prev" title="Alerts Management" href="Alerts-Management.html" /> 
 </head>
 
@@ -103,15 +103,24 @@
 <li class="toctree-l1"><a class="reference internal" href="Advisor.html">Advisor</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Alerts-Management.html">Alerts Management</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">App Configuration</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#azure-appconfiguration">azure-appconfiguration</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#azure-mgmt-appconfiguration">azure-mgmt-appconfiguration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#client-packages">Client Packages</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#azure-appconfiguration">azure-appconfiguration</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="#management-packages">Management Packages</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#azure-mgmt-appconfiguration">azure-mgmt-appconfiguration</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="App-Service.html">App Service</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Application-Insights.html">Application Insights</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Attestation.html">Attestation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Authorization.html">Authorization</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Automation.html">Automation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Batch.html">Batch</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Billing.html">Billing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Bot-Service.html">Bot Service</a></li>
 <li class="toctree-l1"><a class="reference internal" href="CDN.html">CDN</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Cognitive-Services.html">Cognitive Services</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Cognitive-Services-Anomaly-Detector.html">Cognitive Services Anomaly Detector</a></li>
@@ -142,17 +151,24 @@
 <li class="toctree-l1"><a class="reference internal" href="Core.html">Core</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Cosmos.html">Cosmos</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Cosmos-DB.html">Cosmos DB</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Cost-Management.html">Cost Management</a></li>
 <li class="toctree-l1"><a class="reference internal" href="DNS.html">DNS</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Data-Bricks.html">Data Bricks</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Data-Factory.html">Data Factory</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Data-Lake-Analytics.html">Data Lake Analytics</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Data-Lake-Store.html">Data Lake Store</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Data-Share.html">Data Share</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Data-migration.html">Data migration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Deployment-Manager.html">Deployment Manager</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Dev-Test-Labs.html">Dev Test Labs</a></li>
 <li class="toctree-l1"><a class="reference internal" href="DevSpaces.html">DevSpaces</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Edge-Gateway.html">Edge Gateway</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Event-Grid.html">Event Grid</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Event-Hub.html">Event Hub</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Front-Door.html">Front Door</a></li>
 <li class="toctree-l1"><a class="reference internal" href="HDInsight.html">HDInsight</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Healthcare-APIs.html">Healthcare APIs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Hybrid-Cloud.html">Hybrid Cloud</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Identity.html">Identity</a></li>
 <li class="toctree-l1"><a class="reference internal" href="ImageBuilder.html">ImageBuilder</a></li>
 <li class="toctree-l1"><a class="reference internal" href="IoT.html">IoT</a></li>
@@ -164,6 +180,7 @@
 <li class="toctree-l1"><a class="reference internal" href="Logic-Apps.html">Logic Apps</a></li>
 <li class="toctree-l1"><a class="reference internal" href="MSI.html">MSI</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Machine-Learning-Compute.html">Machine Learning Compute</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Managed-Services.html">Managed Services</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Management-Groups.html">Management Groups</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Management-Partner.html">Management Partner</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Maps.html">Maps</a></li>
@@ -174,13 +191,17 @@
 <li class="toctree-l1"><a class="reference internal" href="NetApp.html">NetApp</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Network.html">Network</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Notification-Hubs.html">Notification Hubs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="OSS-RDBMS.html">OSS RDBMS</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Other.html">Other</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Peering.html">Peering</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Policy-Insights.html">Policy Insights</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Power-BI-Embedded.html">Power BI Embedded</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Private-DNS.html">Private DNS</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Recovery-Services.html">Recovery Services</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Recovery-Services-Backup.html">Recovery Services Backup</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Redis-Cache.html">Redis Cache</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Relay.html">Relay</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Reservations.html">Reservations</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Resource-Graph.html">Resource Graph</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Resource-Management.html">Resource Management</a></li>
 <li class="toctree-l1"><a class="reference internal" href="SAP-Hana-on-Azure.html">SAP Hana on Azure</a></li>
@@ -189,6 +210,7 @@
 <li class="toctree-l1"><a class="reference internal" href="Scheduler.html">Scheduler</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Search-Management.html">Search Management</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Security-Management.html">Security Management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Serial-Console.html">Serial Console</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Server-Management.html">Server Management</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Service-Bus.html">Service Bus</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Service-Fabric.html">Service Fabric</a></li>
@@ -196,6 +218,7 @@
 <li class="toctree-l1"><a class="reference internal" href="Storage.html">Storage</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Subscription.html">Subscription</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Traffic-Manager.html">Traffic Manager</a></li>
+<li class="toctree-l1"><a class="reference internal" href="VMWare-by-CloudSimple.html">VMWare by CloudSimple</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Virtual-Machines.html">Virtual Machines</a></li>
 <li class="toctree-l1"><a class="reference internal" href="Web-Apps.html">Web Apps</a></li>
 </ul>
@@ -265,8 +288,10 @@
             
   <div class="section" id="app-configuration">
 <h1>App Configuration<a class="headerlink" href="#app-configuration" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="client-packages">
+<h2>Client Packages<a class="headerlink" href="#client-packages" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="azure-appconfiguration">
-<h2>azure-appconfiguration<a class="headerlink" href="#azure-appconfiguration" title="Permalink to this headline">¶</a></h2>
+<h3>azure-appconfiguration<a class="headerlink" href="#azure-appconfiguration" title="Permalink to this headline">¶</a></h3>
 <p><strong>Published Versions</strong></p>
 <embed>
     <ul id="vazure-appconfiguration"></ul>
@@ -274,9 +299,12 @@
         populateIndexList('#vazure-appconfiguration', 'azure-appconfiguration')
     </script>
 </embed></div>
+</div>
 <hr class="docutils" />
+<div class="section" id="management-packages">
+<h2>Management Packages<a class="headerlink" href="#management-packages" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="azure-mgmt-appconfiguration">
-<h2>azure-mgmt-appconfiguration<a class="headerlink" href="#azure-mgmt-appconfiguration" title="Permalink to this headline">¶</a></h2>
+<h3>azure-mgmt-appconfiguration<a class="headerlink" href="#azure-mgmt-appconfiguration" title="Permalink to this headline">¶</a></h3>
 <p><strong>Published Versions</strong></p>
 <embed>
     <ul id="vazure-mgmt-appconfiguration"></ul>
@@ -284,6 +312,7 @@
         populateIndexList('#vazure-mgmt-appconfiguration', 'azure-mgmt-appconfiguration')
     </script>
 </embed><hr class="docutils" />
+</div>
 </div>
 </div>
 
@@ -295,7 +324,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="Application-Insights.html" class="btn btn-neutral float-right" title="Application Insights" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="App-Service.html" class="btn btn-neutral float-right" title="App Service" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="Alerts-Management.html" class="btn btn-neutral float-left" title="Alerts Management" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>

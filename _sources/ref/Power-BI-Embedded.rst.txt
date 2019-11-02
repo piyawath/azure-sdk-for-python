@@ -4,6 +4,11 @@ Power BI Embedded
 =================
 
 
+*******************
+Management Packages
+*******************
+
+
 --------------------------
 azure-mgmt-powerbiembedded
 --------------------------

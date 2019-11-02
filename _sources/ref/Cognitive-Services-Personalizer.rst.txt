@@ -4,6 +4,11 @@ Cognitive Services Personalizer
 ===============================
 
 
+***************
+Client Packages
+***************
+
+
 ------------------------------------
 azure-cognitiveservices-personalizer
 ------------------------------------
